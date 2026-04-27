@@ -1,2 +1,3 @@
-# tech-infra-website-clone-ojiwox
-Published from Blog Editor
+# Tech Infra Website Clone
+
+Published via Blog Editor.
